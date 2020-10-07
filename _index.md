@@ -18,6 +18,7 @@ Welcome to my blog with some of my work in progress. I've been working on this b
 ## Experiment and Practice
 
 * [Machine Learning](https://hide-on-bush2.gitee.io/post/ml/)
+* [Construct3 Gaming](https://hide-on-bush2.gitee.io/post/construct3/)
 
 ## Markdown Grammer
 
