@@ -24,6 +24,7 @@ markup: mmark
 ![](/images/circuit/3.png)
 
 真值表为：
+
 |INPUT|OUTPUT|
 |:---:|:----:|
 |0|1|
@@ -43,6 +44,7 @@ markup: mmark
 ![](/images/circuit/8.png)
 
 真值表如下：
+
 |In A|In B|OUTPUT|
 |:--:|:--:|:----:|
 |0|0|0|
@@ -66,6 +68,7 @@ markup: mmark
 ![](/images/circuit/17.png)
 
 真值表如下：
+
 |In A|In B|In C|Q1|Q2|
 |:--:|:--:|:--:|:-:|:-:|
 |0|0|0|0|0|
@@ -91,6 +94,7 @@ markup: mmark
 ![](/images/circuit/23.png)
 
 真值表为：
+
 |Set|Reset|Q|~Q|
 |:-:|:---:|:-:|:-:|
 |1|1||0|1|
@@ -105,16 +109,17 @@ markup: mmark
 ![](/images/circuit/24.png)
 
 测试结果：
-![](/images/circut/25.png)
-![](/images/circut/26.png)
-![](/images/circut/27.png)
-![](/images/circut/28.png)
-![](/images/circut/29.png)
-![](/images/circut/30.png)
-![](/images/circut/31.png)
-![](/images/circut/32.png)
+![](/images/circuit/25.png)
+![](/images/circuit/26.png)
+![](/images/circuit/27.png)
+![](/images/circuit/28.png)
+![](/images/circuit/29.png)
+![](/images/circuit/30.png)
+![](/images/circuit/31.png)
+![](/images/circuit/32.png)
 
 真值表为：
+
 |A|B|C_in|Sum|C_out|
 |:-:|:-:|:-:|:-:|:-:|
 |0|0|0|0|0|

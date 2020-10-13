@@ -19,6 +19,7 @@ Welcome to my blog with some of my work in progress. I've been working on this b
 
 * [Machine Learning](https://hide-on-bush2.gitee.io/post/ml/)
 * [Construct3 Gaming](https://hide-on-bush2.gitee.io/post/construct3/)
+* [用电路做加法](https://hide-on-bush2.gitee.io/post/circuit/)
 
 ## Markdown Grammer
 
