@@ -14,6 +14,8 @@ Welcome to my blog with some of my work in progress. I've been working on this b
 * [H3](https://hide-on-bush2.gitee.io/homework/homework3/)
 * [H4](https://hide-on-bush2.gitee.io/homework/homework4/)
 * [H5](https://hide-on-bush2.gitee.io/homework/homework5/)
+* [H6](https://hide-on-bush2.gitee.io/homework/homework6/)
+* [H7](https://hide-on-bush2.gitee.io/homework/homework7/)
 
 ## Experiment and Practice
 
